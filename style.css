@@ -52,6 +52,10 @@ body {
 
 /* Portfolio */
 
+.portfolio {
+    margin-bottom: 20px;
+}
+
 .portfolio h3 {
     font-size: 30px;
     margin-bottom: 30px;
@@ -83,4 +87,15 @@ body {
 
 .project-list h4 {
     margin-top: 5px;
+}
+
+/* Footer */
+
+footer {
+    height: 40px;
+}
+
+footer .container {
+    display: flex;
+    justify-content: center;
 }
